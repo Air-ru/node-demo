@@ -1,0 +1,22 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Air-ru/node-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Air-ru/node-demo/issues"
+  },
+  "homepage": "https://github.com/Air-ru/node-demo#readme"
+}
